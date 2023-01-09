@@ -1,0 +1,57 @@
+const beers = {
+	id: "beers",
+	logo: "Best Beers",
+	button: "details",
+	cards: [
+		{1
+			title: "Mango Bay",
+			sub: "Mad Scientist Beer",
+			text: "Pale Ale - American"
+		},
+		{2
+			title: "Távoli Galaxis",
+			sub: "Rothbeer Brewery",
+			text: "IPA - American"
+		},
+		{3
+			title: "Flying Rabbit AIPA",
+			sub: "MONYO Brewing Co.",
+			text: "IPA - American"
+		},
+		{4
+			title: "Liquid Cocaine",
+			sub: "Mad Scientist Beer",
+			text: "IPA - Imperial"
+		},
+		{5
+			title: "Organic Chocolate Stout",
+			sub: "Samuel Smith Old Brewery",
+			text: "Stout - English"
+		},
+		{6
+			title: "Bracia",
+			sub: "Thornbridge Brewery",
+			text: "Strong Ale - English"
+		},
+		{7
+			title: "Oatmeal Stout",
+			sub: "Samuel Smith Old Brewery",
+			text: "Stout - Oatmeal"
+		},
+		{8
+			title: "Black Tokyo Horizon",
+			sub: "BrewDog",
+			text: "Stout - American Imperial"
+		},
+		{9
+			title: "Vintage Ale",
+			sub: "Fuller's",
+			text: "Old Ale"
+		},
+		{
+			title: "All the Leaves are Brown",
+			sub: "Tempest Brewing Company",
+			text: "Brown Ale - American"
+		},
+	]
+}
